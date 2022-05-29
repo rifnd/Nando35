@@ -1,2 +1,2 @@
-# Assalamualaikum 
-<a href = "https://github.com/Nando35"><img src = "https://cardivo.vercel.app/api?name=Nando35&description=Hai,%20Mending%20Tidur%20aja%20ya kan.%20Instagram%20saya%20naando.io,%20okee,%20dan%20makasih.&image=https://telegra.ph/file/196b5f6f24ccdc6805021.jpg?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=Nando35&pattern=topography&colorPattern=%23eaeaea"/><a>
+# Haruno
+<a href = "https://github.com/FadliDarmawan/haruno-md"><img src = "https://cardivo.vercel.app/api?name=Haruno&description=Haruno,%20Bot%20WhatsApp%20multi%20device.%20Created%20by%20Nurutomo,%20BochilGaming,%20dan%20FadliDarmawan.&image=https://telegra.ph/file/196b5f6f24ccdc6805021.jpg?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&github=FadliDarmawan&pattern=topography&colorPattern=%23eaeaea"/><a>
